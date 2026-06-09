@@ -1,7 +1,7 @@
 # DevOps Capstone Project
 
 ## Build Status
-[![Build Status](https://github.com)](https://github.com)
+[![CI Build](https://github.com)](https://github.com)
 [![License](https://shields.io)](https://opensource.org)
 [![Python 3.9](https://shields.io)](https://shields.io)
 
@@ -11,7 +11,7 @@ This repository contains my completed capstone project for the [**IBM-CD0285EN-S
 
 ## Developer Details
 * **Developer:** Tanishq Kumar Sinha
-* **GitHub Profile:** [[https://github.com](https://github.com)](https://github.com/Tanishq1105)
+* **GitHub Profile:** [https://github.com/Tanishq1105](https://github.com/Tanishq1105)
 * **Project Completion Date:** June 2026
 * **Status:** Fully Implemented (REST API, CI/CD Pipeline, Security Headers, Dockerization, and Kubernetes Deployment)
 
