@@ -1,9 +1,7 @@
 # DevOps Capstone Project
 
 ## Build Status
-[![CI Build](https://github.com)](https://github.com)
-[![License](https://shields.io)](https://opensource.org)
-[![Python 3.9](https://shields.io)](https://shields.io)
+![Build Status](https://github.com/Tanishq1105/Devops-Capstone-Project/actions/workflows/ci-build.yaml/badge.svg)
 
 This repository contains my completed capstone project for the [**IBM-CD0285EN-SkillsNetwork DevOps Capstone Project**](https://coursera.org) course, part of the [**IBM DevOps and Software Engineering Professional Certificate**](https://coursera.org).
 
